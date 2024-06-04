@@ -1,0 +1,1 @@
+Este projeto utiliza 5 modelos de inteligência artificial para prever se um paciente tem dengue com base nos sintomas apresentados. Os dados incluem informações sobre febre, cefaleia, mialgia e exantema. O projeto é configurado para ser executado em um contêiner Docker, garantindo portabilidade e facilidade de execução em diferentes ambientes.
