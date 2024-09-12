@@ -1,6 +1,6 @@
 **Este projeto utiliza 5 modelos de inteligência artificial para prever se um paciente tem dengue com base nos sintomas apresentados. Os dados incluem informações sobre febre, cefaleia, mialgia e exantema. O projeto é configurado para ser executado em um contêiner Docker, garantindo portabilidade e facilidade de execução em diferentes ambientes.**
 
-# No nosso trabalho decidimos usar uma planilha a parte, visto que usar a base de dados dada diretamente ficaria muito pesado para subir para o github, podendo dar erros no projeto. Então usamos a base de dados fornecida (dengue_sinan) extraímos dados de 80 pacientes e colocamos em uma planilha a parte e em cima dessa aplicamos os algoritimos de machine learning. Esse trabalho está sendo modificado em virtude da finalização do projeto 
+ No nosso trabalho decidimos usar uma planilha a parte, visto que usar a base de dados dada diretamente ficaria muito pesado para subir para o github, podendo dar erros no projeto. Então usamos a base de dados fornecida (dengue_sinan) extraímos dados de 80 pacientes e colocamos em uma planilha a parte e em cima dessa aplicamos os algoritimos de machine learning. Esse trabalho está sendo modificado em virtude da finalização do projeto 
 
 **knn:**
 Acurácia: 0.71 Precisão: 0.75 Recall: 0.69 F1-Score: 0.72
