@@ -22,10 +22,10 @@ Acurácia: 0.71 Precisão: 0.75 Recall: 0.69 F1-Score: 0.72
 Acurácia: 0.71 Precisão: 0.75 Recall: 0.69 F1-Score: 0.72
 
 
-### Análise KNN:
+## Análise KNN:
 O modelo KNN tem uma acurácia de 0.71, o que indica que ele está correto em 71% das previsões. A precisão é relativamente boa, sugerindo que quando o modelo prevê que um paciente realmente está doente, ele está certo 75% das vezes. O recall de 0.69 indica que ele consegue identificar 69% das ocorrências reais dos pacientes doentes. O F1-Score de 0.72 sugere um equilíbrio tanto entre a previsão quanto com o recall
 
-### Análise Árvore de Decisão:
+## Análise Árvore de Decisão:
 A árvore de decisão mostra uma acurácia de 0.75, que é superior ao KNN. A precisão é alta (0.82), indicando que o modelo é muito bom em prever que o paciente realmente está doente. No entanto, o recall permanece em 0.69, o que sugere que o modelo pode estar perdendo alguns dados de pacientes realmente doentes. O F1-Score de 0.75 reflete uma boa harmonia entre precisão e recall, sendo este modelo um pouco melhor para o caso do que o knn
 
 ## Análise Regressão Logística:
